@@ -1,0 +1,21 @@
+{
+  "name": "practiceAlgorithm",
+  "version": "1.0.0",
+  "description": "https://projecteuler.net/archives",
+  "main": "digitPowerSum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node numberLetterCount_17.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pachopa/practiceAlgorithm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pachopa/practiceAlgorithm/issues"
+  },
+  "homepage": "https://github.com/pachopa/practiceAlgorithm#readme"
+}
