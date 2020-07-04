@@ -22,6 +22,7 @@ const twentyToNinety = [6,6,5,5,5,7,6,6];
 const hundred = 7;
 const hundredAnd = 10;
 
+<<<<<<< HEAD
 let test = 125
 console.log( parseInt(test / 10), test % 10);
 let result;
@@ -51,6 +52,10 @@ for(var i = 1; i < 1001 ; i++) {
 
   }
 }
+=======
+
+
+>>>>>>> 1b81a45f08adc4e898c919af38ae662441afae4d
 
 /* 
 
@@ -66,6 +71,7 @@ let test4 = 46 * 10;
 
 let ONETONINETY = 854;
 console.log(test + test2 + test3 + test4);
+<<<<<<< HEAD
 
 let FINALRESULT = 854 * 9 + 7 * 9 + 36 * 100 + 11 + 854 + 10*99*9;
 
@@ -77,6 +83,19 @@ let test7 = 47 * 10 * 9;
 let test8 = 7 * 1000;
 let test9 = 36 * 100;
 
+=======
+
+let FINALRESULT = 854 * 9 + 7 * 9 + 36 * 100 + 11 + 854 + 10*99*9;
+
+console.log(FINALRESULT)
+
+let test5 = 36 * 9 * 9
+let test6 = 61 * 9;
+let test7 = 47 * 10 * 9;
+let test8 = 7 * 1000;
+let test9 = 36 * 100;
+
+>>>>>>> 1b81a45f08adc4e898c919af38ae662441afae4d
 let test10 = 11;
 
 let test11 = 99*9
