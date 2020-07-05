@@ -22,7 +22,6 @@ const twentyToNinety = [6,6,5,5,5,7,6,6];
 const hundred = 7;
 const hundredAnd = 10;
 
-<<<<<<< HEAD
 let test = 125
 console.log( parseInt(test / 10), test % 10);
 let result;
@@ -52,10 +51,6 @@ for(var i = 1; i < 1001 ; i++) {
 
   }
 }
-=======
-
-
->>>>>>> 1b81a45f08adc4e898c919af38ae662441afae4d
 
 /* 
 
