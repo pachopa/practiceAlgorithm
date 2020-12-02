@@ -100,3 +100,59 @@ findUniqueTransformations();
 // };
 
 // 1. 그 캐릭터 위치가 같은거를
+
+/**
+ * another solution
+ */
+
+// const letters = "abcdefghijklmnopqrstuvwxyz";
+// const morseCode = [
+//   ".-",
+//   "-...",
+//   "-.-.",
+//   "-..",
+//   ".",
+//   "..-.",
+//   "--.",
+//   "....",
+//   "..",
+//   ".---",
+//   "-.-",
+//   ".-..",
+//   "--",
+//   "-.",
+//   "---",
+//   ".--.",
+//   "--.-",
+//   ".-.",
+//   "...",
+//   "-",
+//   "..-",
+//   "...-",
+//   ".--",
+//   "-..-",
+//   "-.--",
+//   "--..",
+// ];
+// const mapMorse = new Map(
+//   morseCode.map((code, index) => [letters[index], code])
+// );
+// console.log(mapMorse);
+// let words = ["gin", "zen", "gig", "msg"];
+// var uniqueMorseRepresentations = function (words) {
+//   const transformations = new Set();
+//   console.log(transformations);
+//   words.forEach((w) => {
+//     console.log(w);
+//     transformations.add(
+//       w
+//         .split("")
+//         .map((l) => mapMorse.get(l))
+//         .join("")
+//     );
+//   });
+//   console.log(transformations);
+//   return transformations.size;
+// };
+
+// console.log(uniqueMorseRepresentations(words));
