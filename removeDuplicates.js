@@ -20,4 +20,3 @@ function removeDuplicates(nums) {
 }
 
 let result = removeDuplicates(nums);
-console.log(result);
